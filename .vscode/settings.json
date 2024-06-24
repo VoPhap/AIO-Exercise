@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "vophap",
+        "projectKey": "VoPhap_AIO-Exercise"
+    }
+}
